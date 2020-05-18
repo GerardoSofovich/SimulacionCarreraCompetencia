@@ -1,0 +1,7 @@
+D:\Juan Pablo\Escritorio\NahuePiguillem\ImagenesApp\ManipulacionImagenes\ManipulacionImagenes\bin\Debug\ManipulacionImagenes.exe.config
+D:\Juan Pablo\Escritorio\NahuePiguillem\ImagenesApp\ManipulacionImagenes\ManipulacionImagenes\bin\Debug\ManipulacionImagenes.exe
+D:\Juan Pablo\Escritorio\NahuePiguillem\ImagenesApp\ManipulacionImagenes\ManipulacionImagenes\bin\Debug\ManipulacionImagenes.pdb
+D:\Juan Pablo\Escritorio\NahuePiguillem\ImagenesApp\ManipulacionImagenes\ManipulacionImagenes\obj\Debug\ManipulacionImagenes.csprojAssemblyReference.cache
+D:\Juan Pablo\Escritorio\NahuePiguillem\ImagenesApp\ManipulacionImagenes\ManipulacionImagenes\obj\Debug\ManipulacionImagenes.csproj.CoreCompileInputs.cache
+D:\Juan Pablo\Escritorio\NahuePiguillem\ImagenesApp\ManipulacionImagenes\ManipulacionImagenes\obj\Debug\ManipulacionImagenes.exe
+D:\Juan Pablo\Escritorio\NahuePiguillem\ImagenesApp\ManipulacionImagenes\ManipulacionImagenes\obj\Debug\ManipulacionImagenes.pdb
